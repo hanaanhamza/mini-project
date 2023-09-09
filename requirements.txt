@@ -1,0 +1,11 @@
+pyannote-audio==2.1
+ipython==7.34.0
+SpeechRecognition
+pocketsphinx
+pydub
+pandas
+librosa
+numpy
+keras
+scikit-learn
+streamlit
