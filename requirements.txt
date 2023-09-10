@@ -9,4 +9,4 @@ numpy
 keras
 scikit-learn
 streamlit
-libsndfile1
+libsndfile
