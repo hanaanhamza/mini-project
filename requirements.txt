@@ -10,4 +10,4 @@ keras
 scikit-learn
 streamlit
 soundfile
-libsndfile1-dev
+pysndfile
