@@ -9,4 +9,4 @@ numpy
 keras
 scikit-learn
 streamlit
-soundfile
+soundfile==0.10.3.post1
