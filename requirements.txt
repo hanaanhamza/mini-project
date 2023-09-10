@@ -1,4 +1,4 @@
-pyannote-audio==2.1
+pyannote-audio==2.1.1
 ipython==7.34.0
 SpeechRecognition
 pocketsphinx
